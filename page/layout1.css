@@ -9,4 +9,15 @@ html, body {
   visibility: hidden;
   display: none;
 }
+#main{
+  width: 70%;
+  height: 500px;
+  margin: 0 auto;
+}
+#mainx{
+  width: 70%;
+  height: 300px;
+  margin: 0 auto;
+}
+
 
